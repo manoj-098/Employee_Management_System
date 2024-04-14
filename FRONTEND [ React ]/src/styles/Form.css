@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+form{
+    border:2px solid black;
+    border-radius: 5px;
+    position: relative;
+    left:50%;
+    top:60vh;
+    transform: translate(-50%,-50vh);
+    padding:5vh 0;
+    max-width:25vw;
+}
+.form-element{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    gap:1vw;
+}
+.form-element label{
+    /* margin:1.5vw 0; */
+    padding:10px 5px;
+    /* margin-right:1vw; */
+    font-weight: bold;
+    /* border: 1px solid red; */
+}
+.form-element input{
+    /* min-width:100px; */
+    padding-left:5px;
+    height:3vw;
+}
+form .btn{
+    margin-top:3vw;
+    min-width:150px;
+    margin-right:1vw;
+}
