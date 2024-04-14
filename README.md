@@ -28,4 +28,8 @@ The rest of the folders contains the Frontend code [React]
 
 
 ### Deployment
-Refer to the attached [Images](https://github.com/manoj-098/Employee_List_Management/tree/c39a7c94136d2389759d606899d117df0c45ff20/Images) to get a insight into the poject
+Please review the attached video to observe the output.
+
+
+https://github.com/manoj-098/Employee_Management_System/assets/93770983/1481c215-0f5a-4692-8625-adba79970382
+
